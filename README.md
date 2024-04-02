@@ -11,7 +11,7 @@
 TrafficAnalys3r_ is Analyse connected Networks of your system.
 </pre>
 
-## First git clone Your the repositories
+## First git clone the repositories
 
 ## Make Your Virtual Environment in under the repositorie folder
 ```
