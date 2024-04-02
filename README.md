@@ -10,3 +10,13 @@
 <pre>
 TrafficAnalys3r_ is Analyse connected Networks of your system.
 </pre>
+
+## Make Your Virtual Environment
+'''
+python3 -m venv environ
+'''
+
+## Run requirements.txt file
+'''
+pip install -r requirements.txt
+'''
