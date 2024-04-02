@@ -11,12 +11,19 @@
 TrafficAnalys3r_ is Analyse connected Networks of your system.
 </pre>
 
-## Make Your Virtual Environment
+## First git clone Your the repositories
+
+## Make Your Virtual Environment in under the repositorie folder
 '''
 python3 -m venv environ
 '''
 
-## Run requirements.txt file
+## Activate Your Virtual Environment
+'''
+source environ/bin/activate
+'''
+
+## Now Run requirements.txt file For install Rquired python Libraries
 '''
 pip install -r requirements.txt
 '''
