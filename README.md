@@ -8,7 +8,7 @@
 
 ## Description
 <pre>
-TrafficAnalys3r_ is Analyse connected Networks of your system.
+TrafficAnalys3r_ | Network Traffic Analyser | Connected Networks
 </pre>
 
 ## First git clone the repositories
