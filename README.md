@@ -24,6 +24,7 @@ source environ/bin/activate
 ```
 
 ## Now Run requirements.txt file For install Rquired python Libraries
+## After That Run the analyser.py File
 ```
 pip install -r requirements.txt
 ```
